@@ -4,3 +4,4 @@
 ### 201605
 ##### 20160508
 [DOM扩展学习笔记](http://www.cnblogs.com/venoral/p/5459495.html)
+[一个你一眼看不出来的Bug](https://segmentfault.com/a/1190000005037758)
