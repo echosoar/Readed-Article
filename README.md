@@ -5,6 +5,8 @@
 ##### 20160509
 1.[小公司的前端应该怎么做？](http://www.cnblogs.com/yexiaochai/archive/2016/05/09/5311712.html)
 
+2.[messengerjs iframe 跨域传数据](https://segmentfault.com/a/1190000005071851)
+
 ##### 20160508
 1.[DOM扩展学习笔记](http://www.cnblogs.com/venoral/p/5459495.html)
 
