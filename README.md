@@ -13,6 +13,12 @@
 
 5.[前端应该了解的HTTP2](https://segmentfault.com/a/1190000005085636)
 
+6.[JavaScript Ajax与Comet“XMLHttpRequest对象”的注意要点](https://segmentfault.com/a/1190000004485194)
+
+7.[Ajax拦截器的实现](https://segmentfault.com/a/1190000005054143)
+
+8.[【译】谨慎使用CSS中的波浪选择器](https://segmentfault.com/a/1190000005038961)
+
 ##### 20160509
 1.[小公司的前端应该怎么做？](http://www.cnblogs.com/yexiaochai/archive/2016/05/09/5311712.html)
 
