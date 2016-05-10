@@ -2,6 +2,17 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201605
+##### 20160510
+1.[站在TA的角度来看HTML，认识会大不一样](https://segmentfault.com/a/1190000005088003)
+
+2.[锚的神秘面纱](http://www.cnblogs.com/bfgis/archive/2016/05/10/5467283.html)
+
+3.[JavaScript Promise 告别异步乱嵌套](https://segmentfault.com/a/1190000005078431)
+
+4.[深入理解JavaScript类数组](https://segmentfault.com/a/1190000005076858)
+
+5.[前端应该了解的HTTP2](https://segmentfault.com/a/1190000005085636)
+
 ##### 20160509
 1.[小公司的前端应该怎么做？](http://www.cnblogs.com/yexiaochai/archive/2016/05/09/5311712.html)
 
