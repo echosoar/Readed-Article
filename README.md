@@ -2,6 +2,13 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201605
+##### 20160511
+1.[JavaScript中reduce()方法不完全指南](http://aotu.io/notes/2016/04/15/2016-04-14-js-reduce/)
+
+2.[让图片加载这件事儿变得更美好](http://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
+
+3.[总结常见的ES6新语法特性](http://www.cnblogs.com/jarson-7426/archive/2016/05/11/5481491.html)
+
 ##### 20160510
 1.[站在TA的角度来看HTML，认识会大不一样](https://segmentfault.com/a/1190000005088003)
 
