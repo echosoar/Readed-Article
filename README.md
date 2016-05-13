@@ -2,6 +2,9 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201605
+##### 20160513
+1.[探究为何rem在chrome浏览器上计算出错](http://www.cnblogs.com/kwzm/p/5484700.html)
+
 ##### 20160512
 1.[JavaScript—从数组的indexOf方法深入——Object的Property机制](http://www.cnblogs.com/xcr1234/p/5469076.html)
 
