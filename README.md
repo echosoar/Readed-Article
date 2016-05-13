@@ -5,6 +5,12 @@
 ##### 20160513
 1.[探究为何rem在chrome浏览器上计算出错](http://www.cnblogs.com/kwzm/p/5484700.html)
 
+2.[【翻译】理解CSS模块方法](http://www.cnblogs.com/wengxuesong/p/5473788.html)
+
+3.[【译】女程序员的正能量](http://www.zcfy.cc/article/225)
+
+4.[初探新的 JavaScript 并行特性](http://www.zcfy.cc/article/274)
+
 ##### 20160512
 1.[JavaScript—从数组的indexOf方法深入——Object的Property机制](http://www.cnblogs.com/xcr1234/p/5469076.html)
 
