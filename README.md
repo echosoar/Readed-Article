@@ -2,6 +2,11 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201605
+##### 20160514
+1.[Javascript的无new构建](http://www.cnblogs.com/tao0622/p/5490233.html)
+
+2.[Javascript自执行匿名函数的原理分析](http://www.cnblogs.com/lanten/archive/2016/05/13/5491175.html)
+
 ##### 20160513
 1.[探究为何rem在chrome浏览器上计算出错](http://www.cnblogs.com/kwzm/p/5484700.html)
 
