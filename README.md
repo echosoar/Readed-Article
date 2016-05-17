@@ -4,6 +4,7 @@
 ### 201605
 ##### 20160517
 1.[【前端性能】高性能滚动 scroll 及页面渲染优化](http://www.cnblogs.com/coco1s/archive/2016/05/17/5499469.html)
+2.[实例解析防抖动（Debouncing）和节流阀（Throttling）](http://jinlong.github.io/2016/04/24/Debouncing-and-Throttling-Explained-Through-Examples/)
 ##### 20160516
 1.[【教程】弧形排列的可折叠二级导航](http://www.cssmagic.net/demo/20090215-arc-nav/teach.html)
 
