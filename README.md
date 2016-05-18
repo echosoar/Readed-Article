@@ -2,6 +2,10 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201605
+##### 20160518
+1.[Js中的天坑----JS:parseInt("08")和“09”返回0](http://blog.csdn.net/yangxin_blog/article/details/51447036)
+
+2.[12个非常实用的JavaScript小技巧](http://www.cnblogs.com/lslvxy/archive/2016/05/18/5504329.html)
 ##### 20160517
 1.[【前端性能】高性能滚动 scroll 及页面渲染优化](http://www.cnblogs.com/coco1s/archive/2016/05/17/5499469.html)
 
