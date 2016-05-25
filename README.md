@@ -2,7 +2,11 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201605
-##### 20160524
+##### 20160525
+1.[js一道面试题。貌似闭包，上下文，函数调用，声明，setTimeout() ](http://segmentfault.com/q/1010000005150322?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
+2.[关于JavaScript高级程序设计函数绑定的疑问](http://segmentfault.com/q/1010000005179094?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
 ##### 20160518
 1.[Js中的天坑----JS:parseInt("08")和“09”返回0](http://blog.csdn.net/yangxin_blog/article/details/51447036)
 
