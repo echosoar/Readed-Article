@@ -2,6 +2,11 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201605
+##### 20160527
+1.[从本质认识JavaScript的原型继承和类继承](https://www.h5jun.com/post/inherits.html)
+
+2.[菜鸟工程师的超神之路 ](http://toutiao.io/j/magzhm)
+
 ##### 20160525
 1.[js一道面试题。貌似闭包，上下文，函数调用，声明，setTimeout() ](http://segmentfault.com/q/1010000005150322?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
