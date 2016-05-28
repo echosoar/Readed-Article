@@ -2,6 +2,17 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201605
+##### 20160528 
+1.[缓存最佳实践及 max-age 注意事项](http://www.zcfy.cc/article/255)
+
+2.[禁止页面Body在后台滚动](http://www.zcfy.cc/article/334)
+
+3.[Jvascript定时器与执行机制解析](http://www.alloyteam.com/2016/05/javascript-timer/)
+
+4.[requestAnimationFrame - MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/requestAnimationFrame)
+
+5.[requestAnimationFrame，Web中写动画的另一种选择](http://www.cnblogs.com/Wayou/p/requestAnimationFrame.html)
+
 ##### 20160527
 1.[从本质认识JavaScript的原型继承和类继承](https://www.h5jun.com/post/inherits.html)
 
