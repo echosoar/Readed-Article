@@ -2,6 +2,11 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201605
+##### 20160529
+1.[JavaScript 开发者经常忽略或误用的七个基础知识点](https://github.com/cssmagic/blog/issues/21)
+
+2.[CSS3的calc()使用](http://www.w3cplus.com/css3/how-to-use-css3-calc-function.html)
+
 ##### 20160528 
 1.[缓存最佳实践及 max-age 注意事项](http://www.zcfy.cc/article/255)
 
