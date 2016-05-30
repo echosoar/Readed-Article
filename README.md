@@ -2,10 +2,23 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201605
+##### 20160530
+1.[从用 void 0 代替 undefined 说起](https://segmentfault.com/a/1190000005138543)
+
+2.[常用类型判断以及一些有用的工具方法](https://github.com/hanzichi/underscore-analysis/issues/2)
+
+3.[JavaScript 中是如何比较两个元素是否 "相同" 的](https://github.com/hanzichi/underscore-analysis/issues/5)
+
+4.[for..in 存在的浏览器兼容问题你造吗](https://github.com/hanzichi/underscore-analysis/issues/3)
+
 ##### 20160529
 1.[JavaScript 开发者经常忽略或误用的七个基础知识点](https://github.com/cssmagic/blog/issues/21)
 
 2.[CSS3的calc()使用](http://www.w3cplus.com/css3/how-to-use-css3-calc-function.html)
+
+3.[关于渐进增强和优雅降级](http://www.cnblogs.com/wangying731/p/5206497.html)
+
+4.[移动前端自适应解决方案和比较](http://www.cnblogs.com/guofei0925/p/5520952.html)
 
 ##### 20160528 
 1.[缓存最佳实践及 max-age 注意事项](http://www.zcfy.cc/article/255)
