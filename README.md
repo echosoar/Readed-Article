@@ -11,6 +11,8 @@
 
 4.[for..in 存在的浏览器兼容问题你造吗](https://github.com/hanzichi/underscore-analysis/issues/3)
 
+5.[关于JavaScript高级程序设计函数绑定的疑问](https://segmentfault.com/q/1010000005179094)
+
 ##### 20160529
 1.[JavaScript 开发者经常忽略或误用的七个基础知识点](https://github.com/cssmagic/blog/issues/21)
 
