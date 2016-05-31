@@ -2,6 +2,11 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201605
+##### 20160531
+1.[JavaScript中,{}+{}等于多少?](http://www.cnblogs.com/ziyunfei/archive/2012/09/15/2685885.html)
+
+2.[Tray - NW.js Documentation](http://docs.nwjs.io/en/latest/References/Tray/)
+
 ##### 20160530
 1.[从用 void 0 代替 undefined 说起](https://segmentfault.com/a/1190000005138543)
 
