@@ -1,6 +1,7 @@
 # Readed-Article
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
+### 201606
 ### 201605
 ##### 20160531
 1.[JavaScript中,{}+{}等于多少?](http://www.cnblogs.com/ziyunfei/archive/2012/09/15/2685885.html)
