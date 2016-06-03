@@ -2,6 +2,9 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201606
+##### 20160603
+1.[使用CSS的 object-fit 和object-position属性](http://www.zcfy.cc/article/318)
+
 ### 201605
 ##### 20160531
 1.[JavaScript中,{}+{}等于多少?](http://www.cnblogs.com/ziyunfei/archive/2012/09/15/2685885.html)
