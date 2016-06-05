@@ -2,7 +2,23 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201606
+##### 20160605
+1.[5行JavaScript代码实现页面平滑滚动 - 众成翻译](http://www.zcfy.cc/article/406)
+
+2.[初探 ES6 Sets - Barbarian Meets Coding](http://www.zcfy.cc/article/316)
+
+3.[使用 <pre> 标签样式的注意事项](http://www.zcfy.cc/article/383)
+
+4.[box-shadow 属性 - 众成翻译](http://www.zcfy.cc/article/373)
+
+5.[我们要不要在 JS 使用二进制位运算?](https://github.com/lishengzxc/bblog/issues/6)
+
 ##### 20160604
+1.[【鑫花璐放】输入框实时监听之oninput ](http://www.wdshare.org/article/5750e97f71ab9e0e56094963)
+
+2.[【鑫花璐放】文字内容溢出之line-clamp](http://www.wdshare.org/article/5750efbb71ab9e0e56094964)
+
+3.[关于文字内容溢出用点点点(…)省略号表示](http://www.zhangxinxu.com/wordpress/2009/09/%e5%85%b3%e4%ba%8e%e6%96%87%e5%ad%97%e5%86%85%e5%ae%b9%e6%ba%a2%e5%87%ba%e7%94%a8%e7%82%b9%e7%82%b9%e7%82%b9-%e7%9c%81%e7%95%a5%e5%8f%b7%e8%a1%a8%e7%a4%ba/)
 
 ##### 20160603
 1.[使用CSS的 object-fit 和object-position属性](http://www.zcfy.cc/article/318)
