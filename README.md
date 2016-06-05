@@ -7,7 +7,7 @@
 
 2.[初探 ES6 Sets - Barbarian Meets Coding](http://www.zcfy.cc/article/316)
 
-3.[使用 <pre> 标签样式的注意事项](http://www.zcfy.cc/article/383)
+3.[使用 pre 标签样式的注意事项](http://www.zcfy.cc/article/383)
 
 4.[box-shadow 属性 - 众成翻译](http://www.zcfy.cc/article/373)
 
