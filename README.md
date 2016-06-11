@@ -3,6 +3,7 @@
 # 2016
 ### 201606
 ##### 20160611
+1.[XMLHttpRequest - Web API 接口 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/XMLHttpRequest)
 
 ##### 20160610
 1.[【译】用 CSS 隐藏页面元素的 5 种方法 - 十年踪迹的博客](https://www.h5jun.com/post/five-ways-to-hide-elements-in-css.html)
