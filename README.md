@@ -2,6 +2,28 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201606
+##### 20160611
+
+##### 20160610
+1.[【译】用 CSS 隐藏页面元素的 5 种方法 - 十年踪迹的博客](https://www.h5jun.com/post/five-ways-to-hide-elements-in-css.html)
+
+2.[【译】3 种不同的原型继承： ES6+ 版本 - 十年踪迹的博客](https://www.h5jun.com/post/3-different-kinds-of-prototypal-inheritance-es6-edition.html)
+
+3.[10 个可用 ES6 替代的 Lodash 特性 - 众成翻译](http://www.zcfy.cc/article/467)
+
+4.[Web存储: 保存会话令牌更好的选择 - 众成翻译](http://www.zcfy.cc/article/456)
+
+5.[CSS伪类与伪元素完全指南 - 众成翻译](http://www.zcfy.cc/article/239)
+
+##### 20160608
+1.[CSS3 Filter的十种特效](http://www.w3cplus.com/css3/ten-effects-with-css3-filter)
+
+2.[基于clip-path的任意元素的碎片拼接动效 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2016/06/fragment-stitching-clip-path/)
+
+3.[基于clip-path的任意元素的碎片飞入动效 » 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/study/201606/clip-path-piece-fly-into.html)
+
+4.[贝塞尔曲线生成算法 - Nicolas Lee - 博客频道 - CSDN.NET](http://blog.csdn.net/devillixin/article/details/39896355)
+
 ##### 20160607
 1.[精通CSS滤镜（filter）（实例解析） - 施杨 - 博客园](http://www.cnblogs.com/shiyangxt/archive/2008/11/16/1334633.html)
 
