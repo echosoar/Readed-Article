@@ -2,6 +2,8 @@
 我阅读的文章列表以及链接，包括但不仅限于前端方向。
 # 2016
 ### 201606
+##### 20160612
+
 ##### 20160611
 1.[XMLHttpRequest - Web API 接口 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/XMLHttpRequest)
 
